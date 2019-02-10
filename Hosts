@@ -10,6 +10,10 @@
 0.0.0.0 213.186.33.69
 0.0.0.0 35.186.224.0
 0.0.0.0 31.13.76.102
+#Block iOS Update Search
+0.0.0.0 mesu.apple.com
+#Block The Download of updates
+0.0.0.0 appldnld.apple.com
 #Optional
 0.0.0.0 23.1.35.33
 0.0.0.0 23.1.99.33
