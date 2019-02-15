@@ -10,6 +10,16 @@
 0.0.0.0 213.186.33.69
 0.0.0.0 35.186.224.0
 0.0.0.0 31.13.76.102
+#Feb 15 2019 Block android apk leaks
+0.0.0.0 t.appsflyer.com
+0.0.0.0 api.vungle.com
+0.0.0.0 ad.flipboard.com
+0.0.0.0 m2m1.inner-active.mobi
+0.0.0.0 live.chartboost.com
+0.0.0.0 ws.tapjoyads.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 api.branch.io
+0.0.0.0 t.appsflyer.com
 #Block iOS Update Search
 0.0.0.0 mesu.apple.com
 #Block The Download of updates
