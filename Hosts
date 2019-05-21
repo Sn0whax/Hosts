@@ -22,6 +22,13 @@
 0.0.0.0 mesu.apple.com
 #Block The Download of updates
 0.0.0.0 appldnld.apple.com
+#FireFox Snooping
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 safebrowsing.google.com
+0.0.0.0 safebrowsing-cache.google.com
+0.0.0.0 self-repair.mozilla.org
+0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 blocklist.addons.mozilla.org
 #Windows Privacy
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
