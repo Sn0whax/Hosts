@@ -30,6 +30,7 @@
 0.0.0.0 snippets.cdn.mozilla.net
 0.0.0.0 blocklist.addons.mozilla.org
 #Windows Privacy
+0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
