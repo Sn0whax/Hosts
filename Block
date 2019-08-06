@@ -2,6 +2,19 @@
 0.0.0.0 8.8.4.4
 #Random Korean Blocking
 0.0.0.0 static.criteo.net
+0.0.0.0 diagnostics.meethue.com
+0.0.0.0 ws.meethue.com
+0.0.0.0 dcp.dc1.philips.com
+0.0.0.0 fpn.flipboard.com
+0.0.0.0 snap.licdn.com
+0.0.0.0 cleartag.clrsrv.com
+0.0.0.0 analytics.ad.daum.net
+0.0.0.0 webid.ad.daum.net
+0.0.0.0 kyson.ad.daum.net
+0.0.0.0 real-feedback.toros.daum.net
+0.0.0.0 track.tiara.daum.net
+0.0.0.0 display.ad.daum.net
+0.0.0.0 www.clickcatch.co.kr
 #OO Win Blocking
 0.0.0.0 a.rad.msn.com
 0.0.0.0 a.ads1.msn.com
