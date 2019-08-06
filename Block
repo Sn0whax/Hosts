@@ -2,6 +2,7 @@
 0.0.0.0 8.8.4.4
 #Random Korean Blocking
 0.0.0.0 static.criteo.net
+0.0.0.0 ad.daum.net
 0.0.0.0 diagnostics.meethue.com
 0.0.0.0 ws.meethue.com
 0.0.0.0 dcp.dc1.philips.com
