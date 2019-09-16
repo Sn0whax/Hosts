@@ -590,6 +590,18 @@
 0.0.0.0 dlcdnets.asus.com
 0.0.0.0 wideip-dlcdnets.isoi.asia
 0.0.0.0 dlcdnets-ds.asus.com.edgekey.net
+#Ones sneaking by phone
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 geolocation.onetrust.com
+0.0.0.0 cdn.concert.io
+0.0.0.0 static.scroll.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 smetrics.aem.playstation.com
+0.0.0.0 app.adjust.com
 #Samsung shit TV
 0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 abtauthprd.samsungcloudsolution.com
