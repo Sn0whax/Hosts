@@ -67,7 +67,7 @@
 0.0.0.0 fbcdn.com
 0.0.0.0 fbsbx.com
 0.0.0.0 fbcdn.net
-#0.0.0.0 graph.facebook.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 login.facebook.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 static.ak.connect.facebook.com
