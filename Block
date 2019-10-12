@@ -4,7 +4,6 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 ad.daum.net
 0.0.0.0 diagnostics.meethue.com
-0.0.0.0 ws.meethue.com
 0.0.0.0 dcp.dc1.philips.com
 0.0.0.0 fpn.flipboard.com
 0.0.0.0 snap.licdn.com
@@ -18,6 +17,53 @@
 0.0.0.0 clickcatch.co.kr
 0.0.0.0 bc.ad.daum.net
 0.0.0.0 c.aaxads.com
+#Back to normal
+0.0.0.0 telemetry-in.battle.net
+0.0.0.0 shop.trendmicro.com
+0.0.0.0 semanticlocation-pa.googleapis.com
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 www.ecdinterface.philips.com
+0.0.0.0 pinning-02.secb2b.com
+0.0.0.0 capi.samsungcloud.com
+0.0.0.0 skpm.secublue.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 cdn.meta.ndmdhs.com
+0.0.0.0 www.ecdinterface.philips.com
+0.0.0.0 ecdinterface.philips.com
+0.0.0.0 qq.com
+0.0.0.0 www.qq.com
+0.0.0.0 xw.qq.com
+0.0.0.0 ns1.qq.com
+0.0.0.0 ns2.qq.com
+0.0.0.0 ns3.qq.com
+0.0.0.0 ns4.qq.com
+0.0.0.0 www.baidu.com
+0.0.0.0 ws.meethue.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 m.hao123.com
+0.0.0.0 m.taobao.com
+0.0.0.0 news.qq.com.edgekey.net
+0.0.0.0 e6156.dscf.akamaiedge.net
+#Feb 15 2019 Block android apk leaks
+0.0.0.0 t.appsflyer.com
+0.0.0.0 api.vungle.com
+0.0.0.0 ad.flipboard.com
+0.0.0.0 m2m1.inner-active.mobi
+0.0.0.0 live.chartboost.com
+0.0.0.0 ws.tapjoyads.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 api.branch.io
+#Block iOS Update Search
+0.0.0.0 mesu.apple.com
+#Block The Download of updates
+0.0.0.0 appldnld.apple.com
+#FireFox Snooping
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 safebrowsing.google.com
+0.0.0.0 safebrowsing-cache.google.com
+0.0.0.0 self-repair.mozilla.org
+0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 blocklist.addons.mozilla.org
 #OO Win Blocking
 0.0.0.0 a.rad.msn.com
 0.0.0.0 a.ads1.msn.com
@@ -152,42 +198,6 @@
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 weus2watcab01.blob.core.windows.net
 0.0.0.0 weus2watcab02.blob.core.windows.net
-#Back to normal
-0.0.0.0 cdn.meta.ndmdhs.com
-0.0.0.0 www.ecdinterface.philips.com
-0.0.0.0 ecdinterface.philips.com
-0.0.0.0 qq.com
-0.0.0.0 www.qq.com
-0.0.0.0 xw.qq.com
-0.0.0.0 ns1.qq.com
-0.0.0.0 ns2.qq.com
-0.0.0.0 ns3.qq.com
-0.0.0.0 ns4.qq.com
-0.0.0.0 www.baidu.com
-0.0.0.0 m.hao123.com
-0.0.0.0 m.taobao.com
-0.0.0.0 news.qq.com.edgekey.net
-0.0.0.0 e6156.dscf.akamaiedge.net
-#Feb 15 2019 Block android apk leaks
-0.0.0.0 t.appsflyer.com
-0.0.0.0 api.vungle.com
-0.0.0.0 ad.flipboard.com
-0.0.0.0 m2m1.inner-active.mobi
-0.0.0.0 live.chartboost.com
-0.0.0.0 ws.tapjoyads.com
-0.0.0.0 ads.api.vungle.com
-0.0.0.0 api.branch.io
-#Block iOS Update Search
-0.0.0.0 mesu.apple.com
-#Block The Download of updates
-0.0.0.0 appldnld.apple.com
-#FireFox Snooping
-0.0.0.0 detectportal.firefox.com
-0.0.0.0 safebrowsing.google.com
-0.0.0.0 safebrowsing-cache.google.com
-0.0.0.0 self-repair.mozilla.org
-0.0.0.0 snippets.cdn.mozilla.net
-0.0.0.0 blocklist.addons.mozilla.org
 #Windows Privacy
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 a.ads1.msn.com
