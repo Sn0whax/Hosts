@@ -1,5 +1,6 @@
 0.0.0.0 8.8.8.8
 0.0.0.0 8.8.4.4
+0.0.0.0 dns.google
 #Random Korean Blocking
 0.0.0.0 static.criteo.net
 0.0.0.0 ad.daum.net
