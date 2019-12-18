@@ -927,9 +927,6 @@
 0.0.0.0 www.samsungotn.net
 0.0.0.0 www.samsungrm.net
 0.0.0.0 xpu.samsungelectronics.com
-#ALSO WHEN USING CHROMECAST DO BLOCK THE GOOGLE DNS SERVERS:
-0.0.0.0 8.8.8.8
-0.0.0.0 8.8.4.4
 #Feb 15 2019 Addons
 0.0.0.0 media-match.com
 0.0.0.0 adclick.g.doublecklick.net
