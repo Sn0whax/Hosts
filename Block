@@ -1,6 +1,19 @@
 0.0.0.0 dns.google
 0.0.0.0 8.8.8.8
 0.0.0.0 8.8.4.4
+# CNAME Nonsense
+0.0.0.0 eulerian.net     
+0.0.0.0 at-o.net
+0.0.0.0 k.keyade.com      
+0.0.0.0 2o7.net      
+0.0.0.0 sc.omtrdc.net      
+0.0.0.0 storetail.io    
+0.0.0.0 dnsdelegation.io       
+0.0.0.0 tagcommander.com       
+0.0.0.0 wizaly.com       
+0.0.0.0 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com      
+0.0.0.0 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com      
+0.0.0.0 affex.org
 # Start of entries inserted by Spybot Anti-Beacon for Windows 10 Optional
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0002.a-msedge.net
