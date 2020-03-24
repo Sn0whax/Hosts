@@ -1,6 +1,7 @@
 0.0.0.0 dns.google
 0.0.0.0 8.8.8.8
 0.0.0.0 8.8.4.4
+0.0.0.0 ewpg-apps-632.hydro.mb.ca
 # CNAME Nonsense
 0.0.0.0 eulerian.net     
 0.0.0.0 at-o.net
