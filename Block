@@ -100,8 +100,8 @@
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 cdn.meta.ndmdhs.com
 0.0.0.0 ecdinterface.philips.com
-0.0.0.0 qq.com
-0.0.0.0 www.qq.com
+archlinux.org qq.com
+www.archlinux.org www.qq.com
 0.0.0.0 xw.qq.com
 0.0.0.0 ns1.qq.com
 0.0.0.0 ns2.qq.com
