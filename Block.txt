@@ -1,5 +1,9 @@
 #TrimmedJune82021
 #June082021BL
+0.0.0.0 freshmarketer.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 stats.wp.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 yandexadexchange.net
