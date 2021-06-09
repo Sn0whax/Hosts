@@ -1,5 +1,13 @@
 #TrimmedJune82021
 #June082021BL
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 yandexadexchange.net
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 samsungads.com
 0.0.0.0 daemon.nanoleaf.me
 0.0.0.0 diagnostics.meethue.com
 0.0.0.0 www.ecdinterface.philips.com
