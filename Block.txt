@@ -23,15 +23,20 @@
 0.0.0.0 ota.nvidia.com
 0.0.0.0 eligibility-panelresearch.googlevideo.com
 0.0.0.0 business.bing.com
-0.0.0.0 v01w-app-p0354.hydro.mb.ca
-0.0.0.0 osce14.icrc.trendmicro.com
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 firmware.nanoleaf.me
 0.0.0.0 iaso.nanoleaf.me
 0.0.0.0 apollo.nanoleaf.me
-0.0.0.0 iot-connectivity
+#July282021BL
+0.0.0.0 freshmarketer.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 samsungads.com
+0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 teams.events.data.microsoft.com
+0.0.0.0 xp.apple.com
 #END
 0.0.0.0 dns.google
 0.0.0.0 affex.org
@@ -41,6 +46,10 @@
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 cs1569.adn.phicdn.net
 #Hydro laptop
+0.0.0.0 support-connector-service.manage.trendmicro.com
+0.0.0.0 osce14-0-en.url.trendmicro.com
+0.0.0.0 osce14.icrc.trendmicro.com
+0.0.0.0 v01w-app-p0354.hydro.mb.ca
 0.0.0.0 ewpg-apps-632.hydro.mb.ca
 0.0.0.0 ewpg-service-60.hydro.mb.ca
 0.0.0.0 manage.hydro.mb.ca
