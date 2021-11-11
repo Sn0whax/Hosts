@@ -1,3 +1,6 @@
+#Nov102021BL
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
 #June082021BL
 0.0.0.0 freshmarketer.com
 0.0.0.0 cdn.luckyorange.com
