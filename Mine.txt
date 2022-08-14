@@ -29,7 +29,7 @@ eu1.ethermine.org
 us2.ethermine.org
 asia1.ethermine.org
 asia2.ethermine.org
-stratum.whalestonpool.com
+advice-ads.s3.amazonaws.com
 trendmicro.com
 hotjar-analytics.com
 data.hicloud.com
