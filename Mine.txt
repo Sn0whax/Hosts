@@ -1,10 +1,9 @@
-telemetry.*
-tracker.*
-ad.*
-ads.*
 *analytics*
 *logger*
 *telemetry*
+tracker.*
+ad.*
+ads.*
 ads[0-9]* 
 banner.*
 banners.*
@@ -34,14 +33,12 @@ hotjar-analytics.com
 data.hicloud.com
 prod.northstar.nvidiagrid.net
 nvmos.nvidia.com
-ads.google.com
 adservice.google.com
 googleadservices.com
 doubleclick.net
 luckyorange.com
 browser.sentry-cdn.com
 trk.pinterest.com
-ads.reddit.com
 rereddit.com
 appmetrica.yandex.com
 data.mistat.xiaomi.com
@@ -152,7 +149,6 @@ lyncdiscover.hydro.mb.ca
 pipes-prod-glutton.public.aws.demonware.net
 snap.licdn.com
 clickcatch.co.kr
-c.aaxads.com
 telemetry-in.battle.net
 shop.trendmicro.com
 semanticlocation-pa.googleapis.com
@@ -181,7 +177,6 @@ api.vungle.com
 ad.flipboard.com
 live.chartboost.com
 ws.tapjoyads.com
-ads.api.vungle.com
 api.branch.io
 mesu.apple.com
 appldnld.apple.com
