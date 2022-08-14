@@ -195,3 +195,6 @@ az361816.vo.msecnd.net
 az512334.vo.msecnd.net
 choice.microsoft.com
 static.2mdn.net
+ampproject.org
+ampproject.net
+amp.cloudflare.com
