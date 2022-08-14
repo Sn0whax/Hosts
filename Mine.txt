@@ -1,7 +1,9 @@
-*analytics*
-*logger*
-*telemetry*
+analytics.*
+logger.*
+telemetry.*
 tracker.*
+stats.*
+tag.*
 ad.*
 ads.*
 ads[0-9]* 
