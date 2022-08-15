@@ -11,6 +11,11 @@ banner.*
 banners.*
 creatives.*
 oas.*
+v01w-app-p0357.hydro.mb.ca
+ewpg-bdd-02.hydro.mb.ca
+V01W-APP-P0357.hydro.mb.ca
+SQL2019P1.hydro.mb.ca
+ewpg-sccm-01.hydro.mb.ca
 Idiagnostics.apple.com
 Guzzoni.apple.com
 smoot.apple.com
