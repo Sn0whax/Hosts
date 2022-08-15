@@ -125,12 +125,9 @@ wpad.hydro.mb.ca
 osce12.icrc.trendmicro.com
 ims-prod07.adobelogin.com
 cdn-ffc.oobesaas.adobe.com
-ocsp.starfieldtech.com
-ocsp.thawte.com
 prod-rel-ffc-ccm.oobesaas.adobe.com
 crl.usertrust.com
 p13n.adobe.io
-ocsp.godaddy.com
 g.symcd.com
 crl.pki.wayport.net
 cclibraries-defaults-cdn.adobe.com
@@ -148,7 +145,6 @@ crlog-crcn.adobe.com
 s2.symcb.com
 tl.symcd.com
 t2.symcb.com
-ocsp.verisign.com
 bw.hivestreaming.com
 api.hivestreaming.com
 peers.hivestreaming.com
@@ -165,12 +161,6 @@ pinning-02.secb2b.com
 firebaseremoteconfig.googleapis.com
 cdn.meta.ndmdhs.com
 qq.com
-www.qq.com
-xw.qq.com
-ns1.qq.com
-ns2.qq.com
-ns3.qq.com
-ns4.qq.com
 www.baidu.com
 data.cnn.com
 baidu.com
