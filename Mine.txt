@@ -11,6 +11,7 @@ banner.*
 banners.*
 creatives.*
 oas.*
+fls-na.amazon.ca
 v01w-app-p0357.hydro.mb.ca
 ewpg-bdd-02.hydro.mb.ca
 V01W-APP-P0357.hydro.mb.ca
