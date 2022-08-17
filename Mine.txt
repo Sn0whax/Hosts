@@ -11,8 +11,6 @@ banner.*
 banners.*
 creatives.*
 oas.*
-noam.presence.teams.microsoft.com
-oam.presence.teams.microsoft.com
 fls-na.amazon.ca
 v01w-app-p0357.hydro.mb.ca
 ewpg-bdd-02.hydro.mb.ca
