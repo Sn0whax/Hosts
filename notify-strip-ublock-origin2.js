@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          twitchAdSkip
 // @namespace     https://www.twitch.tv/
-// @version       2.0
+// @version       2
 // @description   Script to skip ad placeholder (i.e. purple screen of doom when ads are blocked)
 // @author        simple-hacker & Wilkolicious
 // @match         https://www.twitch.tv/*
