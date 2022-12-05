@@ -11,6 +11,12 @@ banner.*
 banners.*
 creatives.*
 oas.*
+p3a.brave.com
+variations.brave.com
+laptop-updates.brave.com
+static1.brave.com
+crlsets.brave.com
+static.brave.com
 infura.io
 fls-na.amazon.ca
 v01w-app-p0357.hydro.mb.ca
