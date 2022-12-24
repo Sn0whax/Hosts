@@ -11,6 +11,7 @@ banner.*
 banners.*
 creatives.*
 oas.*
+dns.umbrella.com
 p3a.brave.com
 variations.brave.com
 laptop-updates.brave.com
