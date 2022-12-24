@@ -27,9 +27,7 @@ ewpg-sccm-01.hydro.mb.ca
 Idiagnostics.apple.com
 Guzzoni.apple.com
 smoot.apple.com
-Xp.apple.com
 smp-device-content.apple.com
-Appldnld.apple.com
 configuration.apple.com
 gc.apple.com
 carrierbundle.itunes.apple.com
