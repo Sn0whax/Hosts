@@ -11,6 +11,7 @@ banner.*
 banners.*
 creatives.*
 oas.*
+services.gfe.nvidia.com
 dns.umbrella.com
 p3a.brave.com
 variations.brave.com
