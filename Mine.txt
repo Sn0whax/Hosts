@@ -12,6 +12,7 @@ banners.*
 creatives.*
 oas.*
 *-kmwatsonc.events.data.microsoft.com
+izatcloud.net
 services.gfe.nvidia.com
 dns.umbrella.com
 p3a.brave.com
