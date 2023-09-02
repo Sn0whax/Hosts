@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Reddit and Imgur Redirect
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Redirects Reddit.com to Old.Reddit.com and Imgur.com to alternative domains.
 // @author       Sn0whax
 // @match        https://www.reddit.com/*
