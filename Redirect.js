@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Reddit and Imgur Redirect
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      0.7
 // @description  Redirects Reddit.com to Old.Reddit.com and Imgur.com to alternative domains.
 // @author       Sn0whax
 // @match        https://www.reddit.com/*
-// @match        https://imgur.com/*
+// @match        https://*.imgur.com/*
 // @icon         https://i.ibb.co/QrGH2vd/Alien-Lines.png
 // @grant        none
 // @run-at       document-start
@@ -23,11 +23,11 @@
 
             // Redirect to the old Reddit URL
             window.location.href = oldRedditURL;
-        } else if (window.location.hostname === 'imgur.com' && window.location.hostname !== 'i.redd.it') {
+        } else if ((window.location.hostname === 'imgur.com' || window.location.hostname === 'i.imgur.com') && window.location.hostname !== 'i.redd.it') {
             // Redirect to rimgo.totaldarkness.net or rimgo.us.projectsegfau.lt
-            var newImgurURL = window.location.href.replace('imgur.com', 'rimgo.totaldarkness.net');
+            var newImgurURL = window.location.href.replace(/imgur\.com|i\.imgur\.com/, 'rimgo.totaldarkness.net');
             // You can use the alternative domain like this:
-            // var newImgurURL = window.location.href.replace('imgur.com', 'rimgo.us.projectsegfau.lt');
+            // var newImgurURL = window.location.href.replace(/imgur\.com|i\.imgur\.com/, 'rimgo.us.projectsegfau.lt');
 
             // Redirect to the new Imgur URL
             window.location.href = newImgurURL;
