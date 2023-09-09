@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Replace Google Fonts, Microsoft Fonts with Arial
-// @version      1.0
-// @description  Replace Google Fonts, Microsoft Fonts in HTML markup with Arial
+// @name         Replace Google and MS Fonts with Arial
+// @version      1.1
+// @description  Replace Google and MS Fonts in HTML markup with Arial
 // @author       Sn0whax
 // @icon         https://i.ibb.co/QrGH2vd/Alien-Lines.png
 // @match        *://*/*
