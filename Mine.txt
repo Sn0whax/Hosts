@@ -11,6 +11,7 @@ banner.*
 banners.*
 creatives.*
 oas.*
+www.tm.v4.a.prd.aadg.akadns.net
 *-kmwatsonc.events.data.microsoft.com
 izatcloud.net
 services.gfe.nvidia.com
