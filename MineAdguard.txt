@@ -1,3 +1,16 @@
+||analytics.*^
+||logger.*^
+||telemetry.*^
+||tracker.*^
+||stats.*^
+||tag.*^
+||ad.*^
+||ads.*^
+||ads[0-9].*^
+||banner.*^
+||banners.*^
+||creatives.*^
+||oas.*^
 www.tm.v4.a.prd.aadg.akadns.net
 *-kmwatsonc.events.data.microsoft.com
 izatcloud.net
