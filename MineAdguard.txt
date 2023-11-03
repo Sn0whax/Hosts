@@ -13,6 +13,8 @@
 ||oas.*^
 ewpg-infra-11.hydro.mb.ca
 _mssms_mp_h01._tcp.hydro.mb.ca
+ewpg-infra-11.hydro.mb.ca
+_mssms_mp_h01._tcp.hydro.mb.ca
 idt.ecobee.com
 home-fw.ecobee.com
 _ldap._tcp.c9120fa7-4ad6-4149-b412-b9c5a82ea8f7.domains._msdcs.hydro.mb.ca
