@@ -12,6 +12,7 @@ banners.*
 creatives.*
 oas.*
 activeupdate.trendmicro.com
+star-randsrv.bsg.brave.com
 ewpg-infra-11.hydro.mb.ca
 _mssms_mp_h01._tcp.hydro.mb.ca
 idt.ecobee.com
