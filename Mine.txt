@@ -118,7 +118,6 @@ oca.telemetry.microsoft.com
 oca.microsoft.com
 kmwatsonc.events.data.microsoft.com
 *-kmwatsonc.events.data.microsoft.com
-settings-win.data.microsoft.com
 device-metrics-us-2.amazon.com
 events.gfe.nvidia.com
 ota.nvidia.com
