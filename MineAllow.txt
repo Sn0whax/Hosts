@@ -113,7 +113,6 @@ roaming.officeapps.live.com
 uci.cdn.office.net
 in.appcenter.ms
 outlookmobile-office365-tas.msedge.net
-outlook.office365.com
 odc.officeapps.live.com
 monitor.azure.com
 liveperson.net
