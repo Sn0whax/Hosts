@@ -119,7 +119,6 @@ liveperson.net
 lpsnmedia.net
 mps.nbcuni.com
 licensing.mp.microsoft.com
-assets.adobedtm.com
 app.studentlending.ca
 umanitoba.ca
 rewards.brave.com
