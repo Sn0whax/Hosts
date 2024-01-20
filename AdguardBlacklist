@@ -1,3 +1,6 @@
+#Testing#
+/^(ad(s?[0-9]*)?)[_.-]/
+#Prod#
 /^(.+[_.-])?telemetry[_.-]/
 /^adtrack(er|ing)?[0-9]*[_.-]/
 /^advert(s|is(ing|ements?))?[0-9]*[_.-]/
