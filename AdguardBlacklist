@@ -10,9 +10,8 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 /^(.+[_.-])?klarna(cdn)?[0-9]*[_.-]/
 /^(.+[_.-])?wpad?[0-9]*[_.-]/
-||fe2.apple-dns.net^$important
 ||discord.com/api/v*/science
-||discord.com/api/v*/track
+||discord.com/api/v*/track11
 ||api.bethesda.net^$important
 ||displaycatalog.mp.microsoft.com^$important
 ||config.edge.skype.com^$important
@@ -27,6 +26,7 @@
 ||www.gstatic.com^$client='192.168.1.130'
 ||ajax.googleapis.com^$client='192.168.1.130'
 ||imasdk.googleapis.com^$client='192.168.1.130'
+fe2.apple-dns.net
 activeupdate.trendmicro.com
 star-randsrv.bsg.brave.com
 us-east-1-prod-sfprodbi01-glb-bps-bigateway.bgssvcprod.com
