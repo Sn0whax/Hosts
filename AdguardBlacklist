@@ -26,7 +26,7 @@
 ||www.gstatic.com^$client='192.168.1.130'
 ||ajax.googleapis.com^$client='192.168.1.130'
 ||imasdk.googleapis.com^$client='192.168.1.130'
-fe2.apple-dns.net
+||fe2.apple-dns.net^$important
 activeupdate.trendmicro.com
 star-randsrv.bsg.brave.com
 us-east-1-prod-sfprodbi01-glb-bps-bigateway.bgssvcprod.com
